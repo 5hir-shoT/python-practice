@@ -1,4 +1,4 @@
-fruits=["apple","banana","cherry","guava"]
+fruits=["apple","banana","cherry","guava","strawberry"]
 print(fruits)
 fruits.append("pineapple")
 print(fruits)

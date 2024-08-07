@@ -1,13 +1,13 @@
-num1=float(input("enter number 1="))
-num2=float(input("enter number 2="))
+a=float(input("a="))
+b=float(input("b="))
 
-add=num1+num2   #addition
-sub=num1-num2   #subtraction
-mul=num1*num2   #multiplication
-div=num1/num2   #division
-mod=num1%num2   #modulus
-expo=num1**num2 #exponentiation
-flo=num1//num2  #floor division
+add=a+b  #addition
+sub=a-b  #subtraction
+mul=a*b  #multiplication
+div=a/b  #division
+mod=a%b  #modulus
+expo=a**b #exponentiation
+flo=a//b  #floor division
 
 print(f"a+b={add}")
 print(f"a-b={sub}")

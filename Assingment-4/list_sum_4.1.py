@@ -13,6 +13,6 @@ print("The sum of the numbers is:", result)
 
 
 
-# Output:
-#Enter a list of numbers separated by spaces: 2 5 9 7
-#The sum of the numbers is: 23
+#   Output:
+#   Enter a list of numbers separated by spaces: 2 5 9 7
+#   The sum of the numbers is: 23

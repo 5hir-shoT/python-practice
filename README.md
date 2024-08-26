@@ -1,3 +1,3 @@
-<h3>python: Beginner to Advanced</h3>
+python: Beginner to Advanced
 <br>
 Author: Shirsho Tarafdar

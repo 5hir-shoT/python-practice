@@ -1,3 +1,3 @@
-<h1><font:bold>python-practice</font:bold></h1>
+# python-practice
 <br>
 Author: Shirsho Tarafdar

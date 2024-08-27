@@ -9,3 +9,10 @@ not_z=not z
 print(f"x and y is {and_op}")
 print(f"x or y is {or_op}")
 print(f"not z is {not_z}")
+
+
+
+#   Output:
+#   x and y is False
+#   x or y is True
+#   not z is True

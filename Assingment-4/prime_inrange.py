@@ -20,9 +20,9 @@
 def prime(a, b):
     for i in range(a, b + 1):
         if i == 1:
-            continue  # Skip 1, as it's not a prime number
+            continue  
         flag = 0
-        for j in range(2, int(i ** 0.5) + 1):  # Check up to sqrt(i) for efficiency
+        for j in range(2, int(i ** 0.5) + 1):
             if i % j == 0:
                 flag = 1
                 break
